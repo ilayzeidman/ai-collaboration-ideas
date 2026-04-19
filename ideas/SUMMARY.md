@@ -1,6 +1,6 @@
 # Ideas Summary
 
-Total ideas: 0  |  Avg score: —  |  Last updated: —
+Total ideas: 1  |  Avg score: 8.2  |  Last updated: 2026-04-19
 
 This file is the canonical dedup surface. Every idea generator must read it before drafting a new idea. Every evaluator must append to it after scoring. Rows are sorted by idea number ascending.
 
@@ -8,7 +8,13 @@ This file is the canonical dedup surface. Every idea generator must read it befo
 
 | # | Title | One-line summary | Score | Verdict | Tags |
 |---|-------|------------------|-------|---------|------|
+| 2 | Canary Identifiers — Adversarial Hallucination Traps with a Shared Ledger | Commit fake-but-plausible identifiers into the repo and scan AI-authored diffs for them to get a shared, per-tool hallucination rate. | 8.2 | Strong | hallucination-detection, shared-evaluation, density-research, jenkins, rule-file-parity, anti-coordination |
 
 ## Themes covered
 
-_No ideas yet. This section will list every tag from the Tags column above, grouped by theme, with the list of idea numbers that carry it. The evaluator regenerates this section from the table on every update._
+- anti-coordination: ideas (2)
+- density-research: ideas (2)
+- hallucination-detection: ideas (2)
+- jenkins: ideas (2)
+- rule-file-parity: ideas (2)
+- shared-evaluation: ideas (2)
